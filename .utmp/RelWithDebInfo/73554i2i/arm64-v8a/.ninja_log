@@ -1,0 +1,12 @@
+# ninja log v5
+84	770	7651518988277679	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	1fb23bffa6038f0e
+775	1057	7651518991134403	C:/UNITY GAMES/Gold Rush/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/73554i2i/obj/arm64-v8a/libswappywrapper.so	6bd8dffab9f288a8
+37	2620	7651519006783481	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	7c5657a1070167dd
+48	2692	7651519007409596	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	34cb0f2285537914
+11	2732	7651519007843198	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c038104cc38fbb38
+58	2741	7651519007941037	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c28ab351943050e0
+19	2850	7651519009089701	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	7deeb33d5e63704
+70	2907	7651519009530600	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ad26707f925b3c72
+27	3222	7651519012833963	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4a5476d1f6fe96f7
+2	3365	7651519014236786	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ff538e1944ce1a76
+3366	3522	7651519015816303	C:/UNITY GAMES/Gold Rush/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/73554i2i/obj/arm64-v8a/libgame.so	cb907699f51a7c8c
